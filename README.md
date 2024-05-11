@@ -153,8 +153,11 @@ Figma
 
 ## OUTPUT:
 
-![Screenshot 2024-05-10 234727](https://github.com/Meenu2823/Figma/assets/139416219/cb43ffbd-fe06-4d7f-9fe4-a1213bf9b7ab)![Screenshot 2024-05-10 234743](https://github.com/Meenu2823/Figma/assets/139416219/c8630f91-c7ad-4b05-803b-5e3f7c68edc6)
-![Screenshot 2024-05-10 234758](https://github.com/Meenu2823/Figma/assets/139416219/1761acab-ec30-4be0-b578-99dd4aafca86)![Screenshot 2024-05-10 234814](https://github.com/Meenu2823/Figma/assets/139416219/e8762ecd-95cd-413d-84ba-230f108b5eb2)
+![Screenshot 2024-05-10 234727](https://github.com/Meenu2823/Figma/assets/139416219/cb43ffbd-fe06-4d7f-9fe4-a1213bf9b7ab)
+![Screenshot 2024-05-10 234743](https://github.com/Meenu2823/Figma/assets/139416219/c8630f91-c7ad-4b05-803b-5e3f7c68edc6)
+
+![Screenshot 2024-05-10 234758](https://github.com/Meenu2823/Figma/assets/139416219/1761acab-ec30-4be0-b578-99dd4aafca86)
+![Screenshot 2024-05-10 234814](https://github.com/Meenu2823/Figma/assets/139416219/e8762ecd-95cd-413d-84ba-230f108b5eb2)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
